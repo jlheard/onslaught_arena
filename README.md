@@ -6,7 +6,9 @@ Just playing around with modifying someone else's game. Changing the sounds and 
 
 Fight off hordes of classic medieval monsters in this fast paced arcade shooter!
 
-You are Link, a reknowned hero of Hyrule that has been banished to the Onslaught Arena by Gannon in an alter dimension. Defeat wave after wave of ruthless enemies such as goblins, cyclops, evil wizards, sandworms and more! Luckily you've got all manner of deadly weapons in your arsenal: swords, daggers, spears, battle axes and even balls of fire!
+## Intro
+
+You are **Link**, a reknowned hero of Hyrule that has been banished to the Onslaught Arena by Gannon in an alter dimension. Defeat wave after wave of ruthless enemies such as goblins, cyclops, evil wizards, sandworms and more! Luckily you've got all manner of deadly weapons in your arsenal: swords, daggers, spears, battle axes and even balls of fire!
 
 If you live long enough, you'll earn the right to challenge some of the most fearsome monsters around including a vicious dragon and the menacing Beholder!!
 
