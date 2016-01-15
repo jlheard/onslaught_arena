@@ -1,13 +1,12 @@
 # Onslaught! Arena (Link Edition)
 
-##
-jlheard's notes
+## jlheard's notes
 
 Just playing around with modifying someone else's game. Changing the sounds and sprites (attempt to at least) to include link into the game... Who knows if I'm feeling ambitious I may play around with the engine somemore to fully imbed link.
 
 Fight off hordes of classic medieval monsters in this fast paced arcade shooter!
 
-You are Xam, a seasoned fighter. Defeat wave after wave of ruthless enemies such as goblins, cyclops, evil wizards, sandworms and more! Luckily you've got all manner of deadly weapons in your arsenal: swords, daggers, spears, battle axes and even balls of fire!
+You are Link, a reknowned hero of Hyrule that has been banished to the Onslaught Arena by Gannon in an alter dimension. Defeat wave after wave of ruthless enemies such as goblins, cyclops, evil wizards, sandworms and more! Luckily you've got all manner of deadly weapons in your arsenal: swords, daggers, spears, battle axes and even balls of fire!
 
 If you live long enough, you'll earn the right to challenge some of the most fearsome monsters around including a vicious dragon and the menacing Beholder!!
 
