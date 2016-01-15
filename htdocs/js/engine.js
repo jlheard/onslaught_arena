@@ -444,6 +444,9 @@ proto.initSound = function horde_Engine_proto_initSound () {
 
 		// Hero
 		s.create("fire_attack", sfxDir + "char_attacks_fire");
+		s.create("knife_attack", sfxDir + "char_attacks_knife");
+		s.create("spear_attack", sfxDir + "char_attacks_spear");
+		s.create("axe_attack", sfxDir + "char_attacks_axe");					
 		s.create("hero_attacks", sfxDir + "char_attacks");
 		s.create("hero_damage", sfxDir + "char_damage_3");
 		s.create("hero_dies", sfxDir + "char_dies");

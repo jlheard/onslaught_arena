@@ -105,6 +105,7 @@ o.h_knife = {
 	spriteX: 32,
 	spriteY: 0,
 	spriteAlign: true,
+	soundAttacks: "knife_attack",	
 	priority: 1,
 	bounce: false
 };
@@ -119,6 +120,7 @@ o.h_spear = {
 	spriteX: 96,
 	spriteY: 0,
 	spriteAlign: true,
+	soundAttacks: "spear_attack",	
 	priority: 2,
 	bounce: false,
 	piercing: true
@@ -236,6 +238,7 @@ o.h_axe = {
 	rotateSpeed: 700,
 	priority: 5,
 	ttl: 4000,
+	soundAttacks: "axe_attack",	
 	piercing: true,
 	
 	// Clay.io
