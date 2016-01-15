@@ -2,7 +2,7 @@
 
 ## jlheard's notes
 
-Just playing around with modifying someone else's game. Changing the sounds and sprites (attempt to at least) to include link into the game... Who knows if I'm feeling ambitious I may play around with the engine somemore to fully imbed link.
+Just playing around with modifying someone else's game. Changing the sounds and sprites (attempt to at least) to include link into the game... Who knows if I'm feeling ambitious I may play around with the engine somemore to fully embed Link.
 
 Fight off hordes of classic medieval monsters in this fast paced arcade shooter!
 
