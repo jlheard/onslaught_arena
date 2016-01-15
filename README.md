@@ -1,4 +1,9 @@
-# Onslaught! Arena
+# Onslaught! Arena (Link Edition)
+
+###
+jlheard's nots
+
+Just playing around with modifying someone else's game. Changing the sounds and sprites (attempt to at least) to include link into the game... Who knows if I'm feeling ambitious I may play around with the engine somemore to fully imbed link.
 
 Fight off hordes of classic medieval monsters in this fast paced arcade shooter!
 
