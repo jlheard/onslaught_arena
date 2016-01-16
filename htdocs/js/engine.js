@@ -393,7 +393,8 @@ proto.init = function horde_Engine_proto_init () {
 		"arena": "img/sheet_arena.png" + this.cacheBust(),
 		"characters": "img/sheet_characters.png" + this.cacheBust(),
 		"objects": "img/sheet_objects.png" + this.cacheBust(),
-		"beholder": "img/sheet_beholder.png" + this.cacheBust()
+		"beholder": "img/sheet_beholder.png" + this.cacheBust(),
+		"link": "img/sheet_link.png" + this.cacheBust()
 	}, this.handleImagesLoaded, this);
 
 	var highScore = this.getData(HIGH_SCORE_KEY);

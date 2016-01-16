@@ -11,8 +11,10 @@ o.hero = {
 	hitPoints: 100,
 	damage: 0,
 	damageType: null,
-	spriteSheet: "characters",
-	spriteY: 992,
+	/*spriteSheet: "characters",
+	spriteY: 992,*/
+	spriteSheet: "link",
+	size: new horde.Size(20, 30),	
 	animated: true,
 	soundAttacks: "hero_attacks",
 	soundDamage: "hero_damage",
